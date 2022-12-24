@@ -1,9 +1,9 @@
 ﻿{
-  "name": "MZMR Tracker for EmoTracker",
+  "name": "MZMR Tracker",
   "game_name": "Metroid: Zero Mission Randomizer",
   "package_version": "1.0.0",
-  "package_uid": "mzmr_tracker_gekiryuu86",
-  "author": "Gekiryuu86",
+  "package_uid": "mzmr_tracker_drifteroftime",
+  "author": "DrifterOfTime",
   "variants": {
     "v_normal": {
       "display_name": "Normal Difficulty"
