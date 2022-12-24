@@ -5,9 +5,9 @@
       "name": "MZMR",
       "author": "Gekiryuu86",
       "game_name": "Metroid: Zero Mission Randomizer",
-      "version": "1.0.0.1",
+      "version": "1.0.0",
       "uid": "mzmr_tracker_gekiryuu86",
-      "link": "https://github.com/Gekiryuu86/MZMR-Tracker-by-Gekiryuu86/releases/download/v1.0.0/mzmr_tracker_v1.0.0.zip",
+      "link": "https://github.com/Gekiryuu86/MZMR-Tracker-by-Gekiryuu86/releases/download/MZMR/mzmr_tracker_v1.0.0.zip",
       "variants": [
         {
           "name": "Normal Difficulty Tracker"
