@@ -1,13 +1,13 @@
 {
-  "name": "DrifterOfTime's EmoTracker Packages",
+  "name": "DrifterOfTime's EmoTracker Packs",
   "packages": [
     {
-      "name": "MZMR",
+      "name": "Drifter's MZMR Tracker",
       "author": "DrifterOfTime",
       "game_name": "Metroid: Zero Mission Randomizer",
       "version": "1.0.0",
       "uid": "mzmr_tracker_drifteroftime",
-      "link": "https://github.com/DrifterOfTime/DrifterOfTime-EmoTrackers/releases/download/MZMR/mzmr_tracker_v1.0.0.zip",
+      "link": "https://github.com/DrifterOfTime/EmoTrackers/releases/download/MZMR/mzmr_tracker_v1.0.0.zip",
       "variants": [
         {
           "name": "Normal Difficulty Tracker"
